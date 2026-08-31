@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=HARVI%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Harvi.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
 
 <br><br>
 
