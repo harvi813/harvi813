@@ -258,7 +258,7 @@ UI / UX         ████████████░░░░░░░░  60
 
 <td align="center">
 
-<a href="mailto:prakashbhavya.1720@gmail.com">
+<a href="mailto:harvi.patel.cg@gmail.com">
 <img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
