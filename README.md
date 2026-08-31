@@ -1,16 +1,278 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**harvi813/harvi813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=BHAVYA%20PRAKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Bhavya.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
+
+<br><br>
+
+<a href="https://github.com/harvi813">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:prakashbhavya.1720@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+<br><br>
+
+
+
+</div>
+
+---
+
+# `01` — WHO AM I?
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+in+Progress;UI%2FUX+Enthusiast;Problem-Solving+Addict" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" />
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 A LITTLE ABOUT ME
+
+I'm a **Computer Science Student** currently turning curiosity into code.
+
+<br>
+
+🧑‍💻 **Developer in progress**
+🎨 **UI/UX enthusiast**
+🧠 **Problem-solving addict**
+🚀 **Building skills + projects + experience**
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ CURRENT STATUS
+
+```text
+╭─────────────────────╮
+│                     │
+│  ● ONLINE           │
+│                     │
+│  Learning     ████  │
+│  Building     ████  │
+│  Exploring    ███░  │
+│                     │
+│  STATUS: ACTIVE     │
+│                     │
+╰─────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> ### **I don't want to just write code.**
+>
+> ### I want to build things that make people say **"damn."**
+
+</div>
+
+<div align="center">
+
+`LEARN`  →  `BUILD`  →  `BREAK`  →  `DEBUG`  →  `SHIP`
+
+</div>
+
+---
+
+# `02` — CURRENTLY
+
+<div align="center">
+
+| 🧠 Learning |    ⚙️ Building   |    🎯 Hunting   |
+| :---------: | :--------------: | :-------------: |
+|     DSA     |   Web Projects   |   Internships   |
+|     C++     |  UI Experiments  |   Open Source   |
+|    Python   |     Portfolio    | Real Experience |
+|   AI / ML   | College Projects | Bigger Problems |
+
+</div>
+
+---
+
+# `03` — TECH ARSENAL
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=6"/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=5"/>
+
+</div>
+
+---
+
+# `04` — PROJECTS
+
+
+
+### 🚧 CURRENT BUILD
+
+```text
+Project:        ███████████████████░  95%
+
+Design          ████████████████████ 100%
+Frontend        █████████████████░░░  85%
+Backend         ███████████░░░░░░░░░  55%
+Testing         ███████░░░░░░░░░░░░░  35%
+
+STATUS → BUILDING 🚀
+```
+
+---
+
+# `05` — GITHUB STATS
+
+<div align="center">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/harvi813/harvi813/output/activity-graph.svg" />
+
+<br><br>
+
+</div>
+
+
+# `06` — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harvi813/harvi813/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# `07` — THE GRIND
+
+```text
+                    2026
+
+DSA             ████████░░░░░░░░░░░░  40%
+C++             ███████████████░░░░░  75%
+Python          █████████████░░░░░░░  65%
+HTML / CSS      █████████████████░░░  85%
+JavaScript      █████████░░░░░░░░░░░  45%
+Git / GitHub    █████████████░░░░░░░  65%
+AI / ML         █████░░░░░░░░░░░░░░░  25%
+UI / UX         ████████████░░░░░░░░  60%
+```
+
+> `Progress > perfection.`
+
+---
+
+# `08` — TERMINAL
+
+```bash
+┌──(bhavya㉿github)-[~/life]
+└─$ ./build_future.sh
+
+[+] Initializing...
+[+] Learning...
+[+] Building...
+[+] Failing...
+[+] Debugging...
+[+] Learning again...
+[+] Shipping...
+
+████████████████████████████████ 100%
+
+✓ Future successfully compiled.
+```
+
+---
+
+# `09` — MY PHILOSOPHY
+
+<div align="center">
+
+### `"Stay curious. Build relentlessly."`
+
+<br>
+
+`LEARN` → `BUILD` → `BREAK` → `DEBUG` → `SHIP`
+
+</div>
+
+---
+
+---
+
+# `10` — CONNECT
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=LET'S+BUILD+SOMETHING+COOL.;ALWAYS+OPEN+TO+NEW+IDEAS.;CODE.+CREATE.+REPEAT.+🚀" />
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://github.com/harvi813">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+
+<a href="mailto:prakashbhavya.1720@gmail.com">
+<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│              CODE. CREATE. REPEAT. 🚀                      |
+│                                                            │
+│        ────────  ALWAYS BUILD. NEVER STOP.  ────────       │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
