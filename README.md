@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BHAVYA+PRAKASH;Computer+Science+Student;Developer+in+Progress;UI%2FUX+Enthusiast;Problem-Solving+Addict" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=HARVI+PATEL;Computer+Science+Student;Developer+in+Progress;UI%2FUX+Enthusiast;Problem-Solving+Addict" />
 
 <br>
 
