@@ -192,7 +192,7 @@ UI / UX         ████████████░░░░░░░░  60
 # `08` — TERMINAL
 
 ```bash
-┌──(harviiiiiiii㉿github)-[~/life]
+┌──(harvi㉿github)-[~/life]
 └─$ ./build_future.sh
 
 [+] Initializing...
