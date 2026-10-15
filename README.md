@@ -1,110 +1,155 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    🌌 HARVI PATEL · GITHUB PROFILE README            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <!-- THE ONLY ANIMATION KEPT: Waving Header (Upgraded to a Rich Dark Purple Theme) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E1065,100:581C87&height=220&section=header&text=HARVI%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18" alt="Harvi Patel Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/harvi813">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E0B0FF&labelColor=0D1117" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/harvi-patel-962901427">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E0B0FF&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harvi.patel.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E0B0FF&labelColor=0D1117" alt="Email" />
+  </a>
+</div>
+
+---
+
+## `01` — WHO AM I?
+
+<div align="center">
+  <h3>Transforming complex problems into elegant, user-centric digital experiences.</h3>
+</div>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>👋 The Journey</h4>
+      <p>I’m a <strong>Computer Science Student</strong> with a deep passion for the intersection of logic and aesthetics. I don’t just write code; I craft intuitive interfaces and robust solutions. My journey is driven by curiosity, a love for clean architecture, and the desire to build products that leave a lasting impression.</p>
+      <ul>
+        <li>🎨 <strong>UI/UX Advocate:</strong> I believe great software starts with empathetic, pixel-perfect design.</li>
+        <li>🧠 <strong>Logical Thinker:</strong> I enjoy breaking down complex algorithms into manageable, efficient code.</li>
+        <li>🚀 <strong>Continuous Learner:</strong> The tech landscape evolves, and so do I. Always exploring the next big thing.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h4>⚡ Current Vibe</h4>
+      <pre style="background-color: #161b22; padding: 15px; border-radius: 8px; border: 1px solid #30363d; color: #E0B0FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">
+╭────────────────────╮
+│  > STATUS: ACTIVE  │
+│  > MODE: BUILDING  │
+│                    │
+│  ☕ Coffee:  0%    │
+│  💡 Ideas:   100%  │
+│  🐛 Bugs:    404   │
+│  🚀 Deploy:  ASAP  │
+╰────────────────────╯
+      </pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `02` — CURRENT FOCUS
 
 <div align="center">
 
-<!-- ══════════════ DYNAMIC TYPING HEADER ══════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Harvi+Patel+%F0%9F%91%8B;Code+Enthusiast+%C2%B7+Student;Crafting+Experiences+with+Code+%F0%9F%92%9C;Currently+Exploring+Python+%F0%9F%90%8D" alt="Typing SVG — Harvi Patel" />
-</a>
-
-<br/>
-
-<!-- ══════════════ NAME BADGE & VISITOR COUNT ══════════════ -->
-<img src="https://img.shields.io/badge/✦_HARVI_PATEL-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117" alt="Harvi Patel" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=harvi813&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-
-<br/><br/>
-
-<!-- ══════════════ GLOWING DIVIDER ══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+| 🧠 Exploring | ⚙️ Building | 🎯 Hunting |
+| :--- | :--- | :--- |
+| Advanced React Patterns & State Management | Responsive, accessible web applications | Impactful Software Engineering Internships |
+| Python for Automation & Backend Logic | Interactive UI components & micro-animations | Collaborative Open-Source Contributions |
+| System Design & Clean Architecture | Personal portfolio & experimental side projects | Real-world problem solving at scale |
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38" align="center"/> &nbsp;About Me
+---
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330" alt="coding gif"/>
+## `03` — TECH ARSENAL
 
-```yaml
-name: Harvi Patel
-role: Code Enthusiast · Student
-located_in: India 🇮🇳
-currently_learning: Python 🐍
-loves: [UI Design, Clean Code, Dark Themes]
-motto: "Design. Build. Ship. Repeat. 🚀"
-```
-
-🎓 I'm a passionate student on a mission to master the art of building for the web.
-🎨 I blend design & code — from pixel-perfect UIs in Figma to interactive apps in React.
-🐍 Currently diving deep into Python — exploring automation, scripts & problem solving.
-🌱 Always curious, always shipping — every repo is a step in my journey.
-💜 Obsessed with dark UIs, neon purples & buttery-smooth animations.
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-🛠️ Tech Stack & Tools
 <div align="center">
-<!-- ───────────── Languages & Frontend ───────────── -->
-<img src="https://img.shields.io/badge/⚡_Languages_%26_Frontend-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117" alt="Languages" /><br/>
-<br/><br/>
-<!-- ───────────── Design & Tools ───────────── -->
-<img src="https://img.shields.io/badge/🎨_Design_%26_Tools-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117" alt="Tools" /><br/>
-<br/><br/>
-<!-- ───────────── Animated Skill Icons ───────────── -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python&perline=5&theme=dark" alt="Core skills" />
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=4&theme=dark" alt="Tools skills" />
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-🚀 Currently Working On / Learning
-<div align="center">
-🔭 Focus 	🐍 Learning 	🎯 Goal 	💡 Fun Fact 
-Building front-end projects & polishing my React skills	Deep into Python fundamentals, scripting & logic	Become a full-stack developer with a designer's eye	I think in hex codes — #A78BFA is my happy color
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-📊 GitHub Stats & Trophies
-<div align="center">
-<!-- ───────────── Stats Card ───────────── -->
-<img src="https://github-readme-stats.vercel.app/api?username=harvi813&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&ring_color=A78BFA&count_private=true" alt="Harvi's GitHub Stats" height="195"/>
-<!-- ───────────── Top Languages ───────────── -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harvi813&layout=compact&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages" height="195"/>
-<br/><br/>
-<!-- ───────────── Streak Stats ───────────── -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harvi813&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=6B7280" alt="GitHub Streak" />
-<br/><br/>
-<!-- ───────────── Trophies ───────────── -->
-<img src="https://github-profile-trophy.vercel.app/?username=harvi813&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-<br/><br/>
-<!-- ───────────── Contribution Snake ───────────── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harvi813/harvi813/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harvi813/harvi813/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/harvi813/harvi813/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-🤝 Connect with Me
-<div align="center">
-<a href="https://www.linkedin.com/in/harvi-patel-962901427" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/harvi813" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
-</a>
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-</div>
-<!-- ══════════════ FOOTER QUOTE ══════════════ -->
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-<br/>
-✦ Crafted with 💜 by Harvi Patel ✦
-<img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_them!-A78BFA?style=flat-square&labelColor=0D1117" alt="Star repos"/>
+
+<h4>LANGUAGES</h4>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+
+<br><br>
+
+<h4>TOOLS & FRAMEWORKS</h4>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+
 </div>
 
+---
+
+## `04` — CURRENT MISSION
+
+<div align="center">
+
+> *"I don't just want to write code. I want to build experiences that make people pause and say, **'damn, that's smooth.'**"*
+
+<br>
+
+**🚧 Active Project: Personal Portfolio & UI Component Library**
+- **Design:** Finalizing high-fidelity, accessible prototypes in Figma.
+- **Frontend:** Implementing responsive layouts with React and modern CSS.
+- **Backend:** Experimenting with Python scripts for dynamic data handling.
+- **Status:** Iterating, testing, and polishing for a flawless deployment.
+
+</div>
+
+---
+
+## `05` — GITHUB METRICS
+
+<div align="center">
+  <br>
+  <!-- Standard, highly reliable GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harvi813&show_icons=true&hide_border=true&title_color=E0B0FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&count_private=true" alt="Harvi's GitHub Stats" />
+  <br><br>
+</div>
+
+---
+
+## `06` — GROWTH TRAJECTORY
+
+<div align="center">
+
+Rather than arbitrary percentages, here is where my energy is actively invested:
+
+<br>
+
+🔹 **Frontend Mastery:** Deepening my understanding of React ecosystems and modern CSS styling.  
+🔹 **Algorithmic Thinking:** Sharpening problem-solving skills through consistent DSA practice.  
+🔹 **Design Systems:** Bridging the gap between Figma prototypes and pixel-perfect, responsive code.  
+🔹 **Backend Curiosity:** Expanding my Python knowledge to build robust, full-stack capabilities.
+
+</div>
+
+---
+
+## `07` — THE TERMINAL
+
+```bash
+┌──(harvi㉿workspace)-[~/career]
+└─$ ./build_future.sh
+
+[+] Loading modules: React, Python, Figma, DSA...
+[+] Compiling ideas into reality...
+[+] Resolving merge conflicts in life...
+[+] Optimizing for performance, accessibility, and clean code...
+
+████████████████████████████████ 100%
+
+✓ Build successful. Ready to deploy. 🚀
