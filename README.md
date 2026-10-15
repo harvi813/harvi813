@@ -35,6 +35,7 @@ located_in: India 🇮🇳
 currently_learning: Python 🐍
 loves: [UI Design, Clean Code, Dark Themes]
 motto: "Design. Build. Ship. Repeat. 🚀"
+```
 
 🎓 I'm a passionate student on a mission to master the art of building for the web.
 🎨 I blend design & code — from pixel-perfect UIs in Figma to interactive apps in React.
@@ -106,4 +107,4 @@ Building front-end projects & polishing my React skills	Deep into Python fundame
 ✦ Crafted with 💜 by Harvi Patel ✦
 <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_them!-A78BFA?style=flat-square&labelColor=0D1117" alt="Star repos"/>
 </div>
-```
+
