@@ -1,16 +1,10 @@
 <div align="center">
 
-  <!-- Animated Header Banner (Deep Purple Gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=wavering&color=0:050505,50:1a0b2e,100:2e1045&height=200&section=header&text=Harvi%20Patel&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20%7C%20CS%20Student%20%7C%20Frontend%20%26%20Python%20Developer&descAlignY=55&descSize=20" />
-
-  <br>
-
-  <!-- Dynamic Typing Animation (Purple Accent) -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=e0b0ff&center=true&vCenter=true&width=600&lines=Hello,+World!+I'm+Harvi.;Transforming+ideas+into+elegant,+responsive+code.;Designing+intuitive,+user-centric+experiences.;Let's+build+something+extraordinary." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=e0b0ff&center=true&vCenter=true&width=600&lines=Hello,+World!+I'm+Harvi.;Transforming+ideas+into+elegant,+responsive+code.;Designing+intuitive,+user-centric+experiences.;Let's+build+something+extraordinary." />
 
   <br><br>
 
-  <!-- Social Links (Purple Theme) -->
+ 
   <a href="https://github.com/harvi813" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0f0518?style=for-the-badge&logo=github&logoColor=e0b0ff" alt="GitHub" />
   </a>
@@ -25,12 +19,12 @@
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" width="25" valign="middle"> About Me
+## 🚀 About Me
 
-I’m **Harvi**, a Computer Science student passionate about bridging the gap between robust logic and elegant design. I thrive on solving algorithmic challenges and translating abstract ideas into interactive, user-centric web applications. For me, software development isn't just about making things work—it's about making them work *beautifully* and *efficiently*.
+I'm **Harvi**, a Computer Science student passionate about bridging the gap between robust logic and elegant design. I thrive on solving algorithmic challenges and translating abstract ideas into interactive, user-centric web applications. For me, software development isn't just about making things work—it's about making them work *beautifully* and *efficiently*.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a0b2e&height=1&section=header&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a0b2e&height=1&section=header&width=100%25" />
 </div>
 
 <br>
@@ -38,30 +32,34 @@ I’m **Harvi**, a Computer Science student passionate about bridging the gap be
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.webp" width="20" valign="middle"> Current Focus</h3>
-      <ul>
-        <li><strong>🧠 Learning:</strong> Advanced React patterns, State Management, and Python automation</li>
-        <li><strong>⚙️ Building:</strong> Responsive web interfaces and seamless user experiences</li>
-        <li><strong>🎯 Exploring:</strong> UI/UX best practices and the open-source ecosystem</li>
-      </ul>
+
+### 🔭 Current Focus
+
+- 🧠 **Learning:** Advanced React patterns, State Management, and Python automation
+- ⚙️ **Building:** Responsive web interfaces and seamless user experiences
+-  **Exploring:** UI/UX best practices and the open-source ecosystem
+
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" width="20" valign="middle"> Live Metrics</h3>
-      <pre style="background: #0f0518; padding: 15px; border-radius: 8px; border: 1px solid #2e1045; color: #e0b0ff; font-family: 'JetBrains Mono', monospace; font-size: 13px;">
+
+### 📊 Live Metrics
+
+<pre style="background: #0f0518; padding: 15px; border-radius: 8px; border: 1px solid #2e1045; color: #e0b0ff; font-family: 'JetBrains Mono', monospace; font-size: 13px;">
 ╭──────────────────────────────╮
-│  Status      : Actively Coding │
-│  Focus       : Deep Work     │
-│  Coffee Level: ████████░░ 80% │
-│  Bugs Fixed  : ∞             │
+│ Status     : Actively Coding │
+│ Theme      : Dark Mode 🌙    │ 
+│ Focus      : █████████░ 90%  │
+│ Soundtrack : Lofi Beats 🎧   │
 ╰──────────────────────────────╯
-      </pre>
+</pre>
+
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.webp" width="25" valign="middle"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -77,25 +75,25 @@ I’m **Harvi**, a Computer Science student passionate about bridging the gap be
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.webp" width="25" valign="middle"> GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
   <br>
   
-  <!-- Activity Graph -->
+ 
   <img src="https://raw.githubusercontent.com/harvi813/harvi813/output/activity-graph.svg" alt="Harvi's Activity Graph" style="max-width: 100%;" />
   
   <br><br>
   
-  <!-- Contribution Snake -->
+ 
   <img src="https://raw.githubusercontent.com/harvi813/harvi813/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="max-width: 100%;" />
 
 </div>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.webp" width="25" valign="middle"> My Philosophy
+##  My Philosophy
 
 <div align="center">
 
@@ -109,7 +107,7 @@ I’m **Harvi**, a Computer Science student passionate about bridging the gap be
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e9/512.webp" width="25" valign="middle"> Let's Connect
+## 📩 Let's Connect
 
 <div align="center">
 
