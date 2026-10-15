@@ -82,7 +82,7 @@ I'm **Harvi**, a Computer Science student passionate about bridging the gap betw
   <br>
   
  
-  <img src="https://raw.githubusercontent.com/harvi813/harvi813/output/activity-graph.svg" alt="Harvi's Activity Graph" style="max-width: 100%;" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=harvi813&bg_color=0f0518&color=e0b0ff&line=e0b0ff&point=c4b5fd&area=2e1045&theme=react-dark" alt="Activity Graph" />
   
   <br><br>
   
