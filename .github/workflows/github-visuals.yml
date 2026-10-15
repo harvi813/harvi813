@@ -1,48 +1,47 @@
 name: Generate Stats and Snake
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  # Run automatically when you push to the main/master branch
   push:
     branches:
       - main
       - master
-  # Allow manual triggering from the Actions tab
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      # Step 1: Generate the Activity Graph
+      # Step 1: Generate the Activity Graph with purple theme
       - name: Generate Activity Graph
         uses: AshishSoni813/github-readme-activity-graph@main
         with:
-          # Customize your graph colors here to match your purple theme!
-          bg_color: '#0f0518'
-          title_color: '#e0b0ff'
-          line_color: '#e0b0ff'
-          point_color: '#c4b5fd'
-          border_color: '#2e1045'
-          text_color: '#c4b5fd'
-          area_color: '#2e1045'
+          username: harvi813
+          theme: react-dark
+          bg_color: 0f0518
+          title_color: e0b0ff
+          line_color: e0b0ff
+          point_color: c4b5fd
+          border_color: 2e1045
+          text_color: c4b5fd
+          area_color: 2e1045
         env:
-          # You MUST add your GitHub Personal Access Token as a secret named 'GH_TOKEN' in your repo settings
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # Step 2: Generate the Contribution Snake
+      # Step 2: Generate the Contribution Snake with purple colors
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e0b0ff&color_dots=#0f0518,#1a0b2e,#2e1045,#4c1d95,#6d28d9
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=e0b0ff&color_dots=0f0518,1a0b2e,2e1045,4c1d95,6d28d9
 
-      # Step 3: Commit the generated files to the 'output' branch
+      # Step 3: Push generated files to the output branch
       - name: Push files to output branch
         run: |
           git config user.name "github-actions[bot]"
@@ -51,4 +50,3 @@ jobs:
           git add -f activity-graph.svg github-contribution-grid-snake-dark.svg || true
           git commit -m "chore: update stats and snake" --allow-empty
           git push -f origin output
-        
