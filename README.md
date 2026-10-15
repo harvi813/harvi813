@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:E6E6FA&height=220&section=header&text=HARVI%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:E0B0FF&height=220&section=header&text=HARVI%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
 
@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=E6E6FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=E0B0FF"/>
 </a>
 
 <a href="mailto:harvi.patel.cg@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E6E6FA"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E0B0FF"/>
 </a>
 
 <br><br>
@@ -239,7 +239,7 @@ UI / UX         ████████████░░░░░░░░  60
 <td align="center">
 
 <a href="https://github.com/harvi813">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=E6E6FA"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=E0B0FF"/>
 </a>
 
 </td>
@@ -249,7 +249,7 @@ UI / UX         ████████████░░░░░░░░  60
 <td align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6E6FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=E0B0FF"/>
 </a>
 
 </td>
@@ -259,7 +259,7 @@ UI / UX         ████████████░░░░░░░░  60
 <td align="center">
 
 <a href="mailto:harvi.patel.cg@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=E6E6FA"/>
+<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=E0B0FF"/>
 </a>
 
 </td>
