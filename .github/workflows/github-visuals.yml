@@ -51,3 +51,4 @@ jobs:
           git add -f activity-graph.svg github-contribution-grid-snake-dark.svg || true
           git commit -m "chore: update stats and snake" --allow-empty
           git push -f origin output
+        
