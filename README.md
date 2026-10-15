@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00F7FF&height=220&section=header&text=HARVI%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:E6E6FA&height=220&section=header&text=HARVI%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Harvi.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=E6E6FA&center=true&vCenter=true&width=700&lines=%3E+Initializing+Harvi.exe...;%3E+Loading+developer+mode...;%3E+Building+the+future...;%3E+while+(alive)+%7B+code()%3B+%7D" />
 
 <br><br>
 
@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=E6E6FA"/>
 </a>
 
-<a href="mailto:prakashbhavya.1720@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<a href="mailto:harvi.patel.cg@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E6E6FA"/>
 </a>
 
 <br><br>
@@ -239,7 +239,7 @@ UI / UX         ████████████░░░░░░░░  60
 <td align="center">
 
 <a href="https://github.com/harvi813">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=E6E6FA"/>
 </a>
 
 </td>
@@ -249,7 +249,7 @@ UI / UX         ████████████░░░░░░░░  60
 <td align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6E6FA"/>
 </a>
 
 </td>
@@ -259,7 +259,7 @@ UI / UX         ████████████░░░░░░░░  60
 <td align="center">
 
 <a href="mailto:harvi.patel.cg@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=E6E6FA"/>
 </a>
 
 </td>
