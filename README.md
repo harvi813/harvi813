@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=e0b0ff&center=true&vCenter=true&width=600&lines=Hello,+World!+I'm+Harvi.;Transforming+ideas+into+elegant,+responsive+code.;Designing+intuitive,+user-centric+experiences.;Let's+build+something+extraordinary." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=e0b0ff&center=true&vCenter=true&width=650&lines=Hello,+World!+I'm+Harvi.;Transforming+ideas+into+elegant,+responsive+code.;Designing+intuitive,+user-centric+experiences.;Let's+build+something+extraordinary." />
 
   <br><br>
 
