@@ -52,13 +52,13 @@
 ## 🌌 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harvi813&theme=dracula" alt="Contribution activity" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harvi813&theme=dracula&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
 </div>
 
 ## 🎧 Fun Facts
