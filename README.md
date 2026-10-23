@@ -52,7 +52,7 @@
 ## 🌌 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution activity graph" />
 </div>
 
 ## 🎧 Fun Facts
