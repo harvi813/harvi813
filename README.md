@@ -49,10 +49,10 @@
   <img src="https://streak-stats.demolab.com?user=harvi813&theme=highcontrast&background=0B0616&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B21A8" alt="GitHub streak" height="165" />
 </div>
 
-## 🌌 Activity Graph
+## 🌌 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution activity" />
 </div>
 
 ## 🎧 Fun Facts
