@@ -52,7 +52,7 @@
 ## 🌌 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harvi813&bg_color=0B0616&color=E9D5FF&line=8B5CF6&point=F472B6&area=true&hide_border=false&border_color=7C3AED&custom_title=Harvi%27s%20Contribution%20Graph" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Activity graph" />
 </div>
 
 ## 🎧 Fun Facts
