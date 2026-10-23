@@ -49,10 +49,16 @@
   <img src="https://streak-stats.demolab.com?user=harvi813&theme=highcontrast&background=0B0616&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B21A8" alt="GitHub streak" height="165" />
 </div>
 
-## 🌌 Activity Graph
+## 🌌 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harvi813&bg_color=0b0616&color=e9d5ff&line=8b5cf6&point=f472b6&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution activity" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
 </div>
 
 ## 🎧 Fun Facts
