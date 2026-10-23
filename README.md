@@ -52,7 +52,7 @@
 ## 🌌 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harvi813&theme=dracula" alt="Contribution activity" />
 </div>
 
 ## 🎧 Fun Facts
