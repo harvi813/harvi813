@@ -52,7 +52,7 @@
 ## 🌌 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harvi813&theme=dracula" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harvi813&bg_color=0b0616&color=e9d5ff&line=8b5cf6&point=f472b6&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
 ## 🎧 Fun Facts
