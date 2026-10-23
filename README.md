@@ -1,16 +1,78 @@
-## Hi there 👋
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Harvi%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20%E2%80%A2%20Creative%20Builder%20%E2%80%A2%20Web%20Learner&descAlignY=56&descSize=18" alt="Harvi Patel banner" /&gt;
+&lt;/div&gt;
 
-<!--
-**harvi813/harvi813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&lt;div align="center"&gt;
+  &lt;a href="https://git.io/typing-svg"&gt;
+    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Student+turning+ideas+into+interfaces;Building+with+React%2C+HTML%2C+CSS+%26+JS;Currently+learning+Python;Design-minded+coder+in+the+making" alt="Typing SVG" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About Me
+- 🎓 I’m a **student** learning by building — small projects first, cleaner code next.
+- 🧩 Currently focused on **frontend fundamentals**: semantic HTML, modern CSS, JavaScript, and **React.js**.
+- 🐍 Exploring **Python** to understand logic, scripting, and problem-solving beyond the browser.
+- 🎨 I like pairing code with **Figma** so ideas don’t stay trapped in my head.
+- 🛠️ Using **Git & GitHub** to keep experiments organized, reversible, and shareable.
+- 🚀 My favorite kind of project is one that feels simple on the surface but has a little twist of personality.
+
+## 🧰 Tech Stack
+
+**Languages**
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" alt="HTML, CSS, JavaScript, Python" /&gt;
+&lt;/p&gt;
+
+**Frontend**
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /&gt;
+&lt;/p&gt;
+
+**Design & Collaboration**
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /&gt;
+&lt;/p&gt;
+
+**Version Control**
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub" /&gt;
+&lt;/p&gt;
+
+**Backend:** `[PLACEHOLDER — add any server-side tools you're learning]`
+
+## 📊 GitHub Stats
+
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=harvi813&show_icons=true&theme=tokyonight&title_color=8B5CF6&icon_color=A78BFA&text_color=E9D5FF&bg_color=0B0616&border_color=7C3AED&hide_border=false&count_private=true" alt="Harvi's GitHub stats" height="165" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harvi813&layout=compact&theme=tokyonight&title_color=8B5CF6&text_color=E9D5FF&bg_color=0B0616&border_color=7C3AED&hide_border=false&langs_count=8" alt="Top languages" height="165" /&gt;
+  &lt;br /&gt;
+  &lt;img src="https://streak-stats.demolab.com?user=harvi813&theme=highcontrast&background=0B0616&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B21A8" alt="GitHub streak" height="165" /&gt;
+&lt;/div&gt;
+
+## 🌌 Activity Graph
+
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=harvi813&bg_color=0B0616&color=E9D5FF&line=8B5CF6&point=F472B6&area=true&hide_border=false&border_color=7C3AED&custom_title=Harvi%27s%20Contribution%20Graph" alt="GitHub activity graph" /&gt;
+&lt;/div&gt;
+
+## 🎧 Fun Facts
+- My coding sessions usually have a playlist — bugs fear good basslines.
+- I read books like I debug code: one chapter at a time, then suddenly it’s 2 AM.
+- “Creative project” is my polite way of saying: *I have a new idea and cannot be stopped.*
+- If a UI has personality, I will notice. If it doesn’t, I might redesign it for fun.
+
+## 🤝 Connect With Me
+
+&lt;div align="center"&gt;
+  &lt;a href="https://www.linkedin.com/in/harvi-patel-962901427" target="_blank" rel="noreferrer"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0616" alt="LinkedIn" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=140&section=footer&text=Keep%20building%2C%20keep%20curious.&fontSize=24&fontColor=ffffff&fontAlignY=64" alt="Footer wave" /&gt;
+  &lt;br /&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=harvi813&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" /&gt;
+&lt;/div&gt;
