@@ -42,10 +42,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harvi813&show_icons=true&theme=tokyonight&title_color=8B5CF6&icon_color=A78BFA&text_color=E9D5FF&bg_color=0B0616&border_color=7C3AED&hide_border=false&count_private=true" alt="Harvi's GitHub stats" height="165" > -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harvi813&layout=compact&theme=tokyonight&title_color=8B5CF6&text_color=E9D5FF&bg_color=0B0616&border_color=7C3AED&hide_border=false&langs_count=8" alt="Top languages" height="165" />
-  <br>;
+  <br>
   <img src="https://streak-stats.demolab.com?user=harvi813&theme=highcontrast&background=0B0616&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B21A8" alt="GitHub streak" height="165" />
 </div>
 
